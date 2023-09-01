@@ -193,9 +193,14 @@ html{
 }
 .login input:focus{
   border: 1px solid var(--secondary-blue--);
+  background-color: #2E333A;
+  color: #B2C2CB;
+  font-size: 17px;
 }
 
 .login input{
+  color: #B2C2CB;
+  font-size: 15px;
   margin-left: 20px;
   margin-bottom: 0px;
   outline: none;
